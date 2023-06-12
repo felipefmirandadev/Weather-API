@@ -1,5 +1,5 @@
 # Weather-APP
-Simple weather APP project with JavaScript, HTML and CSS.
+Weather APP project created with JavaScript, HTML and CSS.
 
 > Difficulty: Intermediary
 
